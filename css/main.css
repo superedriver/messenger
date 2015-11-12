@@ -1,4 +1,9 @@
 header {
     height: 100px;
-    /*background-color: ;*/
+    padding: 0;
+}
+
+header a img{
+    height: 80px;
+    width: 370px;
 }
