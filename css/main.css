@@ -1,11 +1,21 @@
-header {
+#header {
+    min-width: 770px;
     height: 100px;
     padding: 0;
 }
 
-header a img {
+#logo {
     height: 80px;
     width: 370px;
+}
+
+#header ul li a {
+    height: 100px;
+    padding-top: 38px !important;
+}
+
+#header ul{
+    margin-left: 10px;
 }
 
 #for-login {
@@ -13,3 +23,12 @@ header a img {
     width: 500px;
     padding: 20px;
 }
+
+#reg-but {
+    float: right;
+}
+
+/*REGISTRATION PAGE*/
+/*#i-agree {*/
+    /*margin-top: 50px;*/
+/*}*/
