@@ -36,7 +36,13 @@
     float: right;
 }
 
-/*REGISTRATION PAGE*/
-/*#i-agree {*/
-    /*margin-top: 50px;*/
-/*}*/
+#wrapper {
+    margin-top: 150px;
+}
+
+/*FRIENDS PAGE*/
+#wrapper form {
+    position: relative;
+    top: -59px;
+    left: 851px;
+}
